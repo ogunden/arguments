@@ -1,0 +1,20 @@
+A toy app for evaluating the persuasiveness of arguments.
+
+Compiling requires Opa 1.1.0 or newer (http://opalang.org)
+
+Running requires a server with mongodb (http://mongodb.org)
+and nodejs (http://nodejs.org), and a few node npm modules.
+
+Assuming you have the dependencies installed, compiling and
+running should be as easy as:
+  make
+  ./arguments.js
+
+then navigate to port 8080 on your machine (e.g.
+http://localhost:8080).
+
+For the time being, there will be a demo install at
+
+ http://arguments.phauna.org/
+
+
